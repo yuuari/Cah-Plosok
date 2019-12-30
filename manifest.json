@@ -1,6 +1,6 @@
 {
-  "name": "KompiTextAja",
-  "short_name": "KompiTextAja",
+  "name": "Cahplosok",
+  "short_name": "Cahplosok",
   "start_url": "https://www.cahplosok.my.id/",
   "display": "standalone",
   "background_color": "#fff",
@@ -31,7 +31,7 @@
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://3.bp.blogspot.com/-OZ5ZflWzVTQ/W_-2oo28NuI/AAAAAAAA7IU/E4aWUVZGtWAlRAl6VnxF7g8o6Q_OUt9ZwCLcBGAs/s512/icon_kta.png",
+    "src": "https://1.bp.blogspot.com/-VjpneEYCZhs/XgnoeuLcOLI/AAAAAAAADsY/ZJvqtVhKMcEnRAFYa6o2iYDX22BeEKRcACLcBGAsYHQ/s1600/Icon%2BCah%2BPlosok%2B310%2Bx%2B310.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
