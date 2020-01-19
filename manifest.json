@@ -1,37 +1,37 @@
 {
-  "name": "Cahplosok",
-  "short_name": "Cahplosok",
+  "name": "cahplosok",
+  "short_name": "cahplosok",
   "start_url": "https://www.cahplosok.my.id/",
   "display": "standalone",
   "background_color": "#fff",
-  "theme_color": "#0ebeac",
+  "theme_color": "#e8584a",
   "description": "Blog berbagi informasi seputar blogging, gatget, tips trik terbaru.",
   "icons": [{
-    "src": "https://1.bp.blogspot.com/-qBZ_Nd7TGy0/XgIQ8pHaFGI/AAAAAAAADmE/OVwWl0TZl386kSy5UmX1LKRZis4v9S5SgCLcBGAsYHQ/s1600/Icon%2BCah%2BPlosok.png",
+    "src": "https://3.bp.blogspot.com/-CdOh5Dp6MqE/XiRJZWdswWI/AAAAAAAAD7E/9O-TsKFUrsoXZLd0bNTes5FWZHRd9oz0gCLcBGAsYHQ/s48/icon_cahplosok.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-c2uFmXLt2Iw/XgIRIuFVTjI/AAAAAAAADmI/JEONobWd9CE95HjAV4NlKmiVFQj_A6tjgCLcBGAsYHQ/s1600/Icon%2BCah%2BPlosok%2B72%2Bx%2B72.png",
+    "src": "https://3.bp.blogspot.com/-CdOh5Dp6MqE/XiRJZWdswWI/AAAAAAAAD7E/9O-TsKFUrsoXZLd0bNTes5FWZHRd9oz0gCLcBGAsYHQ/s72/icon_cahplosok.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-4bAfZdY3bVc/XgIRNk7RpTI/AAAAAAAADmQ/4603m8ipPg4Gsc5MQhhBsLHCaNFktQPeQCLcBGAsYHQ/s1600/Icon%2BCah%2BPlosok%2B96%2Bx96.png",
+    "src": "https://3.bp.blogspot.com/-CdOh5Dp6MqE/XiRJZWdswWI/AAAAAAAAD7E/9O-TsKFUrsoXZLd0bNTes5FWZHRd9oz0gCLcBGAsYHQ/s96/icon_cahplosok.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-AA4X5FFI40c/XgIRSKmSXGI/AAAAAAAADmU/zn7XN71oJ3wlLF4a0fQ5MpYiybFxGcFSACLcBGAsYHQ/s1600/Icon%2BCah%2BPlosok%2B144%2Bx%2B144.png",
+    "src": "https://3.bp.blogspot.com/-CdOh5Dp6MqE/XiRJZWdswWI/AAAAAAAAD7E/9O-TsKFUrsoXZLd0bNTes5FWZHRd9oz0gCLcBGAsYHQ/s144/icon_cahplosok.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/--Plpni5OLdU/XgIRayOHa0I/AAAAAAAADmc/CTfGjs0w9H4LlMyWNaC6j4TUat4xEfiHwCLcBGAsYHQ/s1600/Icon%2BCah%2BPlosok%2B192%2Bx%2B192.png",
+    "src": "https://3.bp.blogspot.com/-CdOh5Dp6MqE/XiRJZWdswWI/AAAAAAAAD7E/9O-TsKFUrsoXZLd0bNTes5FWZHRd9oz0gCLcBGAsYHQ/s168/icon_cahplosok.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-CUbnbHTym60/XgIRg1zqZII/AAAAAAAADmk/ImxppjTA6Y4WiKyhs5Z37Dg3aarEEj98gCLcBGAsYHQ/s1600/Icon%2BCah%2BPlosok%2B152%2Bx%2B152.png",
+    "src": "https://3.bp.blogspot.com/-CdOh5Dp6MqE/XiRJZWdswWI/AAAAAAAAD7E/9O-TsKFUrsoXZLd0bNTes5FWZHRd9oz0gCLcBGAsYHQ/s192/icon_cahplosok.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-VjpneEYCZhs/XgnoeuLcOLI/AAAAAAAADsY/ZJvqtVhKMcEnRAFYa6o2iYDX22BeEKRcACLcBGAsYHQ/s1600/Icon%2BCah%2BPlosok%2B310%2Bx%2B310.png",
+    "src": "https://3.bp.blogspot.com/-CdOh5Dp6MqE/XiRJZWdswWI/AAAAAAAAD7E/9O-TsKFUrsoXZLd0bNTes5FWZHRd9oz0gCLcBGAsYHQ/s512/icon_cahplosok.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
